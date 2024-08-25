@@ -1,13 +1,21 @@
-Crud com Node.js e Express.
+# Crud Simples com Node.js
 
 Projeto realizado para praticar o básico de Node.js,ExpressJs e Jest.
 
-<b>Tecnologias utilizadas</b>
+ ## Tecnologias Utilizadas
 
-<ul>
-  <li>Typescript <img src="https://github.com/user-attachments/assets/f7ffdc3d-b0a4-4844-a24e-c73ca0a77d9c" width="40px" height="40px"/></li>
-  <li>Node.js <img src="https://github.com/user-attachments/assets/ad5621bc-b086-4bc9-949c-31cab800ff6c" width="40px" height="40px"/></li>
-  <li>Express.Js <img src="https://github.com/user-attachments/assets/2556a677-a931-435c-a5ca-51c24f60cfc2" widht="50px" height="30px"/></li>
-  <li>Jest.Js <img src="https://github.com/user-attachments/assets/87554ad6-6512-465c-bb73-f1555632f1d1" width="40px" height="40px"/></li>
-</ul>
+- TypeScript
+- Node.js
+- Express
+- Jest
+  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,jest,express,typescript)](https://skillicons.dev)
+
+## Instrução
+
+```
+git clone 
+```
+
+
 
