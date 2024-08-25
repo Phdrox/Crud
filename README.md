@@ -12,7 +12,7 @@ Projeto realizado para praticar o básico de Node.js,ExpressJs e Jest.
   Node.js
 </div>
 <div ">
-  <img src="https://github.com/user-attachments/assets/2556a677-a931-435c-a5ca-51c24f60cfc2" widht="60px" height="40px"/>
+  <img src="https://github.com/user-attachments/assets/2556a677-a931-435c-a5ca-51c24f60cfc2" widht="50px" height="30px"/>
   Express.Js
 </div>
 <div>
