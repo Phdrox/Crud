@@ -68,7 +68,8 @@ Inserir no body com os dados que deseja atualizar.
 {"message":"Deletado com sucesso"}
 ```
 ________________________________________________________________________________________________________
-
+Os dados são Gravados no arquivo dados.json, porém pode utilizar banco de dados para gravação, atualização, verificação e deleção dos dados,
+ao alterar parte da codificação. 
 
 
 
